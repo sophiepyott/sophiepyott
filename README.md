@@ -2,7 +2,7 @@
 
 Text here...
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xdagging&show_icons=true&theme=gotham" alt="plastuchino" width="500" mb="12px" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sophiepyott&show_icons=true&theme=gotham" alt="myStats" width="500" mb="12px" />
 
 #### Languages/Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
